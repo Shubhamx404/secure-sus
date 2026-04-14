@@ -1,4 +1,4 @@
-# Secure Software Update System (Mini-TUF)
+# Secure Software Update System
 
 ## Overview
 This project is a secure software update system inspired by The Update Framework (TUF). It implements robust file verification using cryptographic signatures and hashing algorithms, ensuring that clients only download and execute trusted updates without fear of tampering or rollback attacks.
