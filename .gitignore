@@ -1,0 +1,23 @@
+# Environments
+venv/
+.venv/
+env/
+.env
+
+# Python specific caching
+__pycache__/
+*.pyc
+
+# Local Data / Cryptographic Key Directories (CRITICAL)
+# Excludes the generated private/public keys and uploaded/downloaded targets
+keys/
+data/
+
+# Testing Files
+target.txt
+temp_dl_test_file.txt
+.pytest_cache/
+
+# OS specific
+.DS_Store
+Thumbs.db
